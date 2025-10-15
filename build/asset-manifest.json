@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/retail_trend_cr_project/static/css/main.b4ccf934.css",
+    "main.js": "/retail_trend_cr_project/static/js/main.9f079a0b.js",
+    "index.html": "/retail_trend_cr_project/index.html",
+    "main.b4ccf934.css.map": "/retail_trend_cr_project/static/css/main.b4ccf934.css.map",
+    "main.9f079a0b.js.map": "/retail_trend_cr_project/static/js/main.9f079a0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4ccf934.css",
+    "static/js/main.9f079a0b.js"
+  ]
+}
