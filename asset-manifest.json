@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/retail_trend_cr_project/static/css/main.9688ee02.css",
-    "main.js": "/retail_trend_cr_project/static/js/main.9f079a0b.js",
+    "main.js": "/retail_trend_cr_project/static/js/main.9431602b.js",
     "index.html": "/retail_trend_cr_project/index.html",
     "main.9688ee02.css.map": "/retail_trend_cr_project/static/css/main.9688ee02.css.map",
-    "main.9f079a0b.js.map": "/retail_trend_cr_project/static/js/main.9f079a0b.js.map"
+    "main.9431602b.js.map": "/retail_trend_cr_project/static/js/main.9431602b.js.map"
   },
   "entrypoints": [
     "static/css/main.9688ee02.css",
-    "static/js/main.9f079a0b.js"
+    "static/js/main.9431602b.js"
   ]
 }
